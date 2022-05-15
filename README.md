@@ -17,7 +17,7 @@ With help inside our Shell we can visualize all the commands.
 - CREATE_FILE <relative file path>
 - CREATE_DIR <relative path and name directory>
 - DELETE_FILE <relative file path>
-- MODIFY_FILE <relative file path> <”><contenido><”>
+- MODIFY_FILE <relative file path> ”<content>”
 - MOVE_FILE <relative file path><relative path>
 - OPEN_FILE <relative file path>
-- OVERWRITE_FILE <<relative file path> <”><contenido><”>>
+- OVERWRITE_FILE <<relative file path> ”<content>”
